@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data science and computational biology.
 - 🌱 I’m currently learning bioinformatics using Python.
 - 💞️ I’m looking to collaborate on bioinformatics project.
-- 📫 you can reach me at godwinzeb@gmail.com
+- 📫 you can reach me at aniigodwinn@gmail.com
 
 <!---
 Godwin-Ani/Godwin-Ani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
