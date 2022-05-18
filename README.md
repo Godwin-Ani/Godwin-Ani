@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Godwin-Ani
-- 👀 I’m interested in machine learning and computational biology.
-- 🌱 Python is my fave.
-- 💞️ I’m looking to collaborate on bioinformatics project.
+- 👋 Hi, I’m @Godwin-Ani, it's nice to meet you.
+- 🗣I speak two languages fluently. English cause it's my country official language and Python cause what other language should a zoologist speak???😜
+- 💪 Just began machine learning so I'll appreciate any guidance I can get.
+- 👬 I’m looking for collaboration on bioinformatics projects to gain more experience.
+- ❤Bioinformatics is a 9 and someday I hope to become the 1 it needs❤.
 - 📫 you can reach me at godwinzeb@gmail.com
 
 <!---
