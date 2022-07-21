@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Godwin-Ani, it's nice to meet you.
-- 🗣I speak two languages. English cause it's my country official language and Python cause what other language should a zoologist speak???😜
-- 💪 Just began machine learning so I'll appreciate any guidance I can get.
-- 👬 I’m looking for collaboration on computational biology projects to gain more experience.
+- 🗣I speak three languages. English cause it's my country official language, R cause it's a necessity in data science, and Python cause what other language should a zoologist speak???😜
+- 💪 Just began my machine learning journey.
+- 👬 Always open for collaborations.
 - ❤Computational biology is a 9 and someday I hope to become the 1 it needs.
-- 📫 you can reach me at godwinzeb@gmail.com
+- 📫 you can reach me at aniigodwinn@gmail.com
 
 <!---
 Godwin-Ani/Godwin-Ani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
