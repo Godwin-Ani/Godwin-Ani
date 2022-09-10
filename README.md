@@ -1,7 +1,7 @@
 ### Hi, I’m Godwin, it's nice to meet you.
 
 
-- ❤ I love biology and Computers, and lose track of time when reading or coding.
+- ❤ I love biology and Computers, and lose track of time when I'm reading or coding.
 
 
 -  🌱 I'm always eager to grow and learn new things.
