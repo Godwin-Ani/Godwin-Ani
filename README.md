@@ -15,7 +15,7 @@
 - Solving all those research problems with computational skills.
 - My PhD in the nearest future.
 - Machine learning and omics data analysis.
-- My back-end skills in django.
+- My back-end skills with django.
 - How to get married with Computational biology one day 💏💍.
 - 📫 you can reach me at aniigodwinn@gmail.com
 - and smile, you're beautiful☺.
