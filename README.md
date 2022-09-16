@@ -7,7 +7,7 @@
 -  🌱 I'm always eager to grow and learn new things.
 
 
-- 🗣I speak three languages. English cause it's my country official language, R cause it's a necessity in data science, and Python cause what other language should a zoologist speak???
+- 🗣🐍I speak Python cause what other language should a zoologist speak???
 - 💪😅 I hope to win a kaggle competition one day.
 
 ### What I'm focusing on 💯
