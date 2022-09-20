@@ -8,7 +8,7 @@
 
 
 - 🗣🐍I speak Python cause what other language should a zoologist speak???
-- 💪😅 I hope to win a kaggle competition one day.
+
 
 ### What I'm focusing on 💯
 - Research, research, and still more research.
