@@ -17,8 +17,11 @@
 - Machine learning and omics data analysis.
 - My back-end skills with django.
 - How to get married with Computational biology one day 💏💍.
-- 📫 you can reach me at aniigodwinn@gmail.com
+
 - and smile, you're beautiful☺.
+
+
+"Indeed at the end of the day, it’s useful to remember that we are all biologists, in that we study biology. Some use wet lab experiments, others dry lab techniques." - Prof. Laurent Gatto.
 
 <!---
 Godwin-Ani/Godwin-Ani is a ✨ specal ✨ repository because its `README.md` (this file) appears on your GitHub profile.
