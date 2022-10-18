@@ -16,7 +16,7 @@
 - My PhD in the nearest future.
 - Machine learning and omics data analysis.
 - My back-end skills with django.
-- How to get married with Computational biology one day 💏💍.
+
 
 - and smile, you're beautiful☺.
 
