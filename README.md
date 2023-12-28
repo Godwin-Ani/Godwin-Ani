@@ -13,9 +13,7 @@
 ### What I'm focusing on 💯
 - Research, research, and still more research.
 - Solving all those research problems with computational skills.
-- My PhD in the nearest future.
-- Machine learning and omics data analysis.
-- My back-end skills with django.
+- My PhD
 
 
 - and smile, you're beautiful☺.
