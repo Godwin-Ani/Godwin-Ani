@@ -16,7 +16,7 @@
 - My PhD
 
 
-- and smile, you're beautiful☺.
+- and smile, you're beautiful ☺.
 
 
 *"Indeed at the end of the day, it’s useful to remember that we are all biologists, in that we study biology. Some use wet lab experiments, others dry lab techniques." - Prof. Laurent Gatto.*
